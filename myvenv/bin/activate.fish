@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/Users/hondaatsuya/djangogirls/myvenv"
+set -gx VIRTUAL_ENV "/Users/hondaatsuya/Documents/djangoblog/DjangoBlog/myvenv"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH
